@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to yet another Matty's homepage
 
-I'm guessing that this is just normal paragraph and will appear as normal on the website...
+Well here we are again on yet another quick way to publish information to the web in the form of a webpage.
+I guess it's the easy way to get people to buy in to your services...
 
 You can use the [editor on GitHub](https://github.com/mattbryant0/mattbryant0.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
