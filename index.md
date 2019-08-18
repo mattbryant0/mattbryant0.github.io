@@ -1,7 +1,7 @@
 ## Welcome to yet another Matty's homepage
 
 Well here we are again on yet another quick way to publish information to the web in the form of a webpage.
-I guess it's the easy way to get people to buy in to your services...
+I guess it's the easy way to get people to buy in to your thoughts and ideas...
 
 You can use the [editor on GitHub](https://github.com/mattbryant0/mattbryant0.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
